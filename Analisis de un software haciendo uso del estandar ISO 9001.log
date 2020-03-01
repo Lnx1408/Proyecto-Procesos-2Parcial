@@ -1,0 +1,316 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.16)  29 FEB 2020 19:33
+entering extended mode
+**"./Analisis de un software haciendo uso del estandar ISO 9001.tex"
+("Analisis de un software haciendo uso del estandar ISO 9001.tex"
+LaTeX2e <2020-02-02>
+L3 programming layer <2020-02-03>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\latin1.def"
+File: latin1.def 2018/08/11 v1.3c Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen135
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count175
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count176
+\leftroot@=\count177
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count178
+\DOTSCASE@=\count179
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count180
+\c@MaxMatrixCols=\count181
+\dotsspace@=\muskip16
+\c@parentequation=\count182
+\dspbrk@lvl=\count183
+\tag@help=\toks17
+\row@=\count184
+\column@=\count185
+\maxfields@=\count186
+\andhelp@=\toks18
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks22
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count190
+\l__pdf_internal_box=\box47
+)
+("Analisis de un software haciendo uso del estandar ISO 9001.aux")
+\openout1 = `"Analisis de un software haciendo uso del estandar ISO 9001.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count191
+\scratchdimen=\dimen154
+\scratchbox=\box48
+\nofMPsegments=\count192
+\nofMParguments=\count193
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count194
+\MPscratchDim=\dimen155
+\MPnumerator=\count195
+\makeMPintoPDFobject=\count196
+\everyMPtoPDFconversion=\toks24
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<ug.png, id=1, 1204.5pt x 1204.5pt>
+File: ug.png Graphic file (type png)
+<use ug.png>
+Package pdftex.def Info: ug.png  used on input line 15.
+(pdftex.def)             Requested size: 120.45705pt x 120.45705pt.
+[1
+
+{C:/Users/Lino/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./ug.png>]
+<tpv.png, id=10, 1284.8pt x 1027.84pt>
+File: tpv.png Graphic file (type png)
+<use tpv.png>
+Package pdftex.def Info: tpv.png  used on input line 41.
+(pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
+[2 <./tpv.png (PNG copy)>]
+File: tpv.png Graphic file (type png)
+<use tpv.png>
+Package pdftex.def Info: tpv.png  used on input line 58.
+(pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
+ [3]
+<Configuracion.png, id=18, 1284.8pt x 1027.84pt>
+File: Configuracion.png Graphic file (type png)
+<use Configuracion.png>
+Package pdftex.def Info: Configuracion.png  used on input line 62.
+(pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
+ [4]
+<Mantenimiento.png, id=22, 1284.8pt x 1027.84pt>
+File: Mantenimiento.png Graphic file (type png)
+<use Mantenimiento.png>
+Package pdftex.def Info: Mantenimiento.png  used on input line 66.
+(pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
+ [5 <./Configuracion.png (PNG copy)>]
+<Caja.png, id=26, 1284.8pt x 1027.84pt>
+File: Caja.png Graphic file (type png)
+<use Caja.png>
+Package pdftex.def Info: Caja.png  used on input line 70.
+(pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
+
+[6 <./Mantenimiento.png (PNG copy)>]
+<Stock.png, id=30, 1284.8pt x 1027.84pt>
+File: Stock.png Graphic file (type png)
+<use Stock.png>
+Package pdftex.def Info: Stock.png  used on input line 74.
+(pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
+ [7 <./Caja.png (PNG copy)>]
+<Clientes con deuda.png, id=35, 1284.8pt x 1027.84pt>
+File: Clientes con deuda.png Graphic file (type png)
+<use Clientes con deuda.png>
+Package pdftex.def Info: Clientes con deuda.png  used on input line 78.
+(pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
+ [8 <./Stock.png (PNG copy)>]
+<Promociones.png, id=39, 1284.8pt x 1027.84pt>
+File: Promociones.png Graphic file (type png)
+<use Promociones.png>
+Package pdftex.def Info: Promociones.png  used on input line 82.
+(pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
+ [9 <./Clientes con deuda.png (PNG copy)>]
+<Niveles de acceso.png, id=43, 1284.8pt x 1027.84pt>
+File: Niveles de acceso.png Graphic file (type png)
+<use Niveles de acceso.png>
+Package pdftex.def Info: Niveles de acceso.png  used on input line 86.
+(pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
+ [10 <./Promociones.png (PNG copy)>]
+<Envio SMS.png, id=47, 1284.8pt x 1027.84pt>
+File: Envio SMS.png Graphic file (type png)
+<use Envio SMS.png>
+Package pdftex.def Info: Envio SMS.png  used on input line 90.
+(pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
+ [11 <./Niveles de acceso.png (PNG copy)>]
+<Acerca de.png, id=51, 1284.8pt x 1027.84pt>
+File: Acerca de.png Graphic file (type png)
+<use Acerca de.png>
+Package pdftex.def Info: Acerca de.png  used on input line 94.
+(pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
+ [12 <./Envio SMS.png (PNG copy)>] [13 <./Acerca de.png (PNG copy)>]
+("Analisis de un software haciendo uso del estandar ISO 9001.aux") ) 
+Here is how much of TeX's memory you used:
+ 2854 strings out of 481565
+ 38345 string characters out of 2923947
+ 276887 words of memory out of 3000000
+ 18084 multiletter control sequences out of 15000+200000
+ 534491 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,6n,27p,560b,224s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\
+Lino\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on "Analisis de un software haciendo uso del estandar ISO 9001.p
+df" (13 pages, 891979 bytes).
+PDF statistics:
+ 71 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
