@@ -1,12 +1,12 @@
-This is pdfTeX,  Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.16)  29 FEB 2020 19:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.5)  5 MAR 2020 14:03
 entering extended mode
 **"./Analisis de un software haciendo uso del estandar ISO 9001.tex"
 ("Analisis de un software haciendo uso del estandar ISO 9001.tex"
-LaTeX2e <2020-02-02>
-L3 programming layer <2020-02-03>
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
@@ -20,33 +20,38 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+) ("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\latin1.def"
+ ("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\latin1.def"
 File: latin1.def 2018/08/11 v1.3c Input encoding file
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen135
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen136
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count175
@@ -87,7 +92,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -95,40 +101,48 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen144
 \Gin@req@width=\dimen145
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty
+"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+ ("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+"
 Package: iftex 2019/11/07 v1.0c TeX engine tests
 ))
 \Gm@cnth=\count187
@@ -144,13 +158,14 @@ Package: iftex 2019/11/07 v1.0c TeX engine tests
 \Gm@layoutvoffset=\dimen153
 \Gm@dimlist=\toks22
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
-("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+cfg"))
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
+d-pdfmode.def"
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count190
 \l__pdf_internal_box=\box47
-)
-("Analisis de un software haciendo uso del estandar ISO 9001.aux")
+) ("Analisis de un software haciendo uso del estandar ISO 9001.aux")
 \openout1 = `"Analisis de un software haciendo uso del estandar ISO 9001.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -168,7 +183,8 @@ LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 
-("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count191
 \scratchdimen=\dimen154
@@ -181,7 +197,9 @@ LaTeX Font Info:    ... okay on input line 10.
 \MPnumerator=\count195
 \makeMPintoPDFobject=\count196
 \everyMPtoPDFconversion=\toks24
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+)
+("C:\Users\braya\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
@@ -227,13 +245,13 @@ Package pdftex.def Info: ug.png  used on input line 15.
 (pdftex.def)             Requested size: 120.45705pt x 120.45705pt.
 [1
 
-{C:/Users/Lino/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./ug.png>]
+{C:/Users/braya/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./ug.png>]
 <tpv.png, id=10, 1284.8pt x 1027.84pt>
 File: tpv.png Graphic file (type png)
 <use tpv.png>
 Package pdftex.def Info: tpv.png  used on input line 41.
 (pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
-[2 <./tpv.png (PNG copy)>]
+ [2 <./tpv.png (PNG copy)>]
 File: tpv.png Graphic file (type png)
 <use tpv.png>
 Package pdftex.def Info: tpv.png  used on input line 58.
@@ -267,50 +285,51 @@ Package pdftex.def Info: Stock.png  used on input line 74.
 <Clientes con deuda.png, id=35, 1284.8pt x 1027.84pt>
 File: Clientes con deuda.png Graphic file (type png)
 <use Clientes con deuda.png>
-Package pdftex.def Info: Clientes con deuda.png  used on input line 78.
+Package pdftex.def Info: Clientes con deuda.png  used on input line 79.
 (pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
  [8 <./Stock.png (PNG copy)>]
 <Promociones.png, id=39, 1284.8pt x 1027.84pt>
 File: Promociones.png Graphic file (type png)
 <use Promociones.png>
-Package pdftex.def Info: Promociones.png  used on input line 82.
+Package pdftex.def Info: Promociones.png  used on input line 84.
 (pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
  [9 <./Clientes con deuda.png (PNG copy)>]
 <Niveles de acceso.png, id=43, 1284.8pt x 1027.84pt>
 File: Niveles de acceso.png Graphic file (type png)
 <use Niveles de acceso.png>
-Package pdftex.def Info: Niveles de acceso.png  used on input line 86.
+Package pdftex.def Info: Niveles de acceso.png  used on input line 94.
 (pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
  [10 <./Promociones.png (PNG copy)>]
 <Envio SMS.png, id=47, 1284.8pt x 1027.84pt>
 File: Envio SMS.png Graphic file (type png)
 <use Envio SMS.png>
-Package pdftex.def Info: Envio SMS.png  used on input line 90.
+Package pdftex.def Info: Envio SMS.png  used on input line 98.
 (pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
  [11 <./Niveles de acceso.png (PNG copy)>]
 <Acerca de.png, id=51, 1284.8pt x 1027.84pt>
 File: Acerca de.png Graphic file (type png)
 <use Acerca de.png>
-Package pdftex.def Info: Acerca de.png  used on input line 94.
+Package pdftex.def Info: Acerca de.png  used on input line 102.
 (pdftex.def)             Requested size: 449.68674pt x 359.74939pt.
- [12 <./Envio SMS.png (PNG copy)>] [13 <./Acerca de.png (PNG copy)>]
+ [12 <./Envio SMS.png (PNG copy)>] [13 <./Acerca de.png (PNG copy)>] [14]
 ("Analisis de un software haciendo uso del estandar ISO 9001.aux") ) 
 Here is how much of TeX's memory you used:
- 2854 strings out of 481565
- 38345 string characters out of 2923947
- 276887 words of memory out of 3000000
- 18084 multiletter control sequences out of 15000+200000
+ 2854 strings out of 481556
+ 40025 string characters out of 2913870
+ 277320 words of memory out of 3000000
+ 18093 multiletter control sequences out of 15000+200000
  534491 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,6n,27p,560b,224s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\
-Lino\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on "Analisis de un producto software haciendo uso del estandar ISO 9001.p
-df" (13 pages, 891979 bytes).
+braya\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><
+C:/Users/braya/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><C:/Users/braya/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb>
+Output written on "Analisis de un software haciendo uso del estandar ISO 9001.p
+df" (14 pages, 893253 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
